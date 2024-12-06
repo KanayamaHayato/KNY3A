@@ -6,5 +6,5 @@ test projecte
 * ccccccc
 ### Hello Git hub!!!
 * こんにちはギットハブ
-** 你好
-*** 안녕
+* 你好
+* 안녕
